@@ -43,3 +43,29 @@
 * Working with Namespaces & Modules
 * Webpack & TypeScript, Third Party Library & TypeScript
 * React + TypeScript & Node.js + TypeScript
+
+### Lectures on TypeScript
+
+##### Working with Types
+
+##### Core Syntax & Features
+
+**Core Types**
+###### Numbers
+```
+1,5.3,10,14,127...
+```
+*All numbers, no differentiation between integers or floats*
+
+###### String
+```
+'Hey', "My", `Bunny`
+```
+*All text values*
+
+###### Numbers
+```
+true, false
+```
+*Just these two, no "truthy" or "falsy" values*
+
