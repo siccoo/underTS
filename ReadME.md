@@ -3,7 +3,14 @@
 ### Get TypeScript
 #### Node.js
 * The command-line TypeScript compiler can be **installed** as a Node.js package.
-``` npm install -g typescript ```
+    ``` 
+    npm install -g typescript 
+    ```
+        &&&
+* Compilation to run your file
+    ```
+    tsc script.ts
+    ```
 
 ### What is TypeScript?
     ``` 
