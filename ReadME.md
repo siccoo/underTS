@@ -25,3 +25,21 @@
 
     console.log(add('2', '3')); 
     ```
+### TypeScrpit Overview
+* TypeScript adds
+* Types !
+* Next Generation JS features (compiled down for older browsers)
+* Non-JS Features like interfaces or generics
+* Rich Configuration Options: TypeScript is highly configurable
+* Meta-Programming features like decorators
+* Modern tooling that helps even in Non-TS Projects
+
+# Course Outline
+* Getting Started
+* TypeScript Basics: Compiler & Configuration Deep Dive
+* Working with Next-Generation JS features/code
+* Classes and Interfaces
+* Advanced Types & TypeScript features: Generics, Decorators
+* Working with Namespaces & Modules
+* Webpack & TypeScript, Third Party Library & TypeScript
+* React + TypeScript & Node.js + TypeScript
