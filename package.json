@@ -1,0 +1,19 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "Learning and Understanding TypeScript from beginner to advanced ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siccoo/underTS.git"
+  },
+  "author": "Chilaka Michael Obinna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siccoo/underTS/issues"
+  },
+  "homepage": "https://github.com/siccoo/underTS#readme"
+}
