@@ -65,9 +65,15 @@
 ```
 *All text values*
 
-###### Numbers
+###### Boolean
 ```
 true, false
 ```
 *Just these two, no "truthy" or "falsy" values*
+
+###### Object
+```
+{ age: 30 }
+```
+*Any JavaScript object, more specific types (type of object) are possible*
 
