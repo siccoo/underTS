@@ -51,6 +51,8 @@
 ##### Core Syntax & Features
 
 **Core Types**
+** TypeScript Type system only helps you during development that's before the code gets compiled.
+
 ###### Numbers
 ```
 1,5.3,10,14,127...
