@@ -1,8 +1,14 @@
+const ADMIN = 0;
+const READ_ONLY = 1;
+const AUTHOR = 2;
+
+enum Role { ADMIN, READ_ONLY, AUTHOR };
+
 const person = {
     name: "Helen",
     age: 25,
     hobbies: ["Cooking", "Singing", "Praying"],
-    role: 'READ ONLY USER'
+    role: Role.ADMIN
 };
 
 // person.role.push('admin');
@@ -14,7 +20,7 @@ for(const hobby of person.hobbies) {
     console.log(hobby.toUpperCase()); 
 }
 
-if(person.role === 'READ-ONLY-USER'){
-    console.log('is read only');
+if(person.role === Role.AUTHOR){
+    console.log('is author');
     
 }
