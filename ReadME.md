@@ -51,7 +51,8 @@
 ##### Core Syntax & Features
 
 **Core Types**
-** TypeScript Type system only helps you during development that's before the code gets compiled.
+** TypeScript Type system only helps you during development that's before the code gets compiled. The key difference between JS & TS is this...
+JS uses "dynamic types" (resolved at runtime) while TS uses "static type" (set during development).
 
 ###### Numbers
 ```
