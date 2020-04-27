@@ -83,3 +83,9 @@ true, false
 [1, 2, 3]
 ```
 *Any JavaScript array is supported, type can be flexible or strict (regarding the element types)*
+
+###### Tuple
+```
+[1, 2]
+```
+*Added by TypeScript: Fixed-Length Array. It does exist in other programming language*
