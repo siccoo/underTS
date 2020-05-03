@@ -89,3 +89,9 @@ true, false
 [1, 2]
 ```
 *Added by TypeScript: Fixed-Length Array. It does exist in other programming language*
+
+###### Any
+```
+*
+```
+*Any value or number on typescript*
