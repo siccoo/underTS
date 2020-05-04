@@ -33,6 +33,7 @@
 * Rich Configuration Options: TypeScript is highly configurable
 * Meta-Programming features like decorators
 * Modern tooling that helps even in Non-TS Projects
+* The TypeScript Compiler [![Configuring & Using the TypeScript Compiler]]
 
 # Course Outline
 * Getting Started
@@ -95,3 +96,4 @@ true, false
 *
 ```
 *Any value or number on typescript*
+
