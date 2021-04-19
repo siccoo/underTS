@@ -25,7 +25,7 @@
 
     console.log(add('2', '3')); 
     ```
-### TypeScrpit Overview
+### TypeScript Overview
 * TypeScript adds
 * Types !
 * Next Generation JS features (compiled down for older browsers)
